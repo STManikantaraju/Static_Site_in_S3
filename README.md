@@ -1,5 +1,6 @@
 # Static_Site_in_S3
-Scenario 1: Allow access to all (If, Block public access (bucket settings): OFF)
+Scenario 1: Allow access to all **(If, Block public access: OFF)**
+**Note:** If, **Block all public access: On**, below script wont work
 
 {
 
