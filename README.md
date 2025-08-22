@@ -1,5 +1,6 @@
 # Static_Site_in_S3
 Scenario 1: Allow access to all **(If, Block public access: OFF)**
+<br>
 **Note:** If, **Block all public access: On**, below script wont work
 
 {
@@ -19,7 +20,7 @@ Scenario 1: Allow access to all **(If, Block public access: OFF)**
 }
 
 
-Scenario 2:
+Scenario 2: If, **Block all public access: On**
 host a static site in s3 with ip based access control
 
 {
